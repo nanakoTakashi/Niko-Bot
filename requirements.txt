@@ -1,0 +1,6 @@
+# Telegram bot
+pyrogram==2.0.39
+TgCrypto==1.2.3
+
+# Another..
+requests==2.28.1
